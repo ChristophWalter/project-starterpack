@@ -6,6 +6,7 @@ I noticed that I usually do the same things when starting a new side project or 
 - App-ready (Gridsome)
 - Static Privacy Pages (Gridsome)
 - Styling (Tailwind CSS)
+- Local Webfonts (Fontsource)
 - Code Style (Prettier)
 
 ## Deployment
