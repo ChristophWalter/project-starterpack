@@ -7,3 +7,6 @@ I noticed that I usually do the same things when starting a new side project or 
 - Static Privacy Pages (Gridsome)
 - Styling (Tailwind CSS)
 - Code Style (Prettier)
+
+## Deployment
+Every push to master deploys to netlify using the default settings. An example can be found here: https://project-starterpack.netlify.app/
