@@ -1,14 +1,9 @@
-# Default starter for Gridsome
+# My Starterpack
 
-This is the project you get when you run `gridsome create new-project`.
+I noticed that I usually do the same things when starting a new side project or MVP. So I created this starter repository. It contains things I need to start and focus on the app itself.
 
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+## Features
+- App-ready (Gridsome)
+- Static Privacy Pages (Gridsome)
+- Styling (Tailwind CSS)
+- Code Style (Prettier)
