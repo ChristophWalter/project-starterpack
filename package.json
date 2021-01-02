@@ -9,6 +9,7 @@
   "dependencies": {
     "@fontsource/roboto": "^4.0.1",
     "@tailwindcss/postcss7-compat": "^2.0.2",
+    "@tailwindcss/typography": "^0.3.1",
     "gridsome": "^0.7.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },

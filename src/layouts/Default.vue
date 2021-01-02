@@ -13,10 +13,10 @@
       <slot />
     </div>
     <footer class="flex justify-between items-center h-14">
-      <g-link class="font-light ml-auto text-red" to="/privacy/"
+      <g-link class="font-light ml-auto text-red" to="/privacy-statement/"
         >Privacy Statement</g-link
       >
-      <g-link class="font-light ml-5" to="/imprint/">Imprint</g-link>
+      <g-link class="font-light ml-5" to="/legal-notice/">Legal Notice</g-link>
     </footer>
   </div>
 </template>
